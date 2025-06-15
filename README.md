@@ -18,7 +18,8 @@
 
 **`SOFTWARE ENGINEERING STUDENT @ FIAP`**  
 **`BANKING SECTOR INTERN :: WEB DEVELOPMENT & DATA AUTOMATION`**  
-**`FOCUS >> Full Stack Solutions | Process Automation | Data Engineering`**
+**`INDIE HACKER IN PROGRESS :: Building Digital Solutions`**  
+**`FOCUS >> Full Stack Development | Process Automation | Product Creation`**
 
 </div>
 
@@ -33,8 +34,8 @@
 ### `>> CORE_LANGUAGES.exe`
 ```bash
 ├── JavaScript     [████████████████████] 100%
-├── TypeScript     [█████               ] 30%
-├── Java           [█████████           ] 40%
+├── TypeScript     [████                ] 20%
+├── Java           [██████              ] 30%
 ├── Python         [██████████████████  ] 90%
 └── SQL            [███████████████     ] 75%
 ```
@@ -88,7 +89,12 @@
 │  ➤ Banking Automation Tools                            │
 │    └── Soluções Internas para Setor Financeiro        │
 │    └── Status: [PRIVATE_REPO]                          │
+│                                                         │
+│  ➤ Indie Product Pipeline                              │
+│    └── SaaS Solutions & Digital Products              │
+│    └── Status: [PLANNING/IDEATION]                     │
 ╰─────────────────────────────────────────────────────────╯
+```────╯
 ```
 
 ---
