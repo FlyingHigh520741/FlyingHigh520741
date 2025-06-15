@@ -72,27 +72,27 @@
 
 ```
 ╭─────────────────────────────────────────────────────────╮
-│  ACTIVE REPOSITORIES :: DEPLOYMENT STATUS              │
+│  ACTIVE REPOSITORIES :: DEPLOYMENT STATUS               │
 ├─────────────────────────────────────────────────────────┤
 │  ➤ PathTrack System                                    │
-│    └── Upload/Análise de Notas Fiscais com OCR        │
-│    └── Status: [DEVELOPMENT]                           │
+│    └── Upload/Análise de Notas Fiscais com OCR          │
+│    └── Status: [DEVELOPMENT]                            │
 │                                                         │
 │  ➤ OCR Automation Suite                                │
-│    └── Extração e Processamento de Dados Python       │
-│    └── Status: [PRODUCTION]                            │
+│    └── Extração e Processamento de Dados Python         │
+│    └── Status: [PRODUCTION]                             │
 │                                                         │
 │  ➤ UI Prototype Collection                             │
-│    └── Interfaces Figma → React Conversion             │
-│    └── Status: [TESTING]                               │
+│    └── Interfaces Figma → React Conversion              │
+│    └── Status: [TESTING]                                │
 │                                                         │
 │  ➤ Banking Automation Tools                            │
-│    └── Soluções Internas para Setor Financeiro        │
-│    └── Status: [PRIVATE_REPO]                          │
+│    └── Soluções Internas para Setor Financeiro          │
+│    └── Status: [PRIVATE_REPO]                           │
 │                                                         │
 │  ➤ Indie Product Pipeline                              │
-│    └── SaaS Solutions & Digital Products              │
-│    └── Status: [PLANNING/IDEATION]                     │
+│    └── SaaS Solutions & Digital Products                │
+│    └── Status: [PLANNING/IDEATION]                      │
 ╰─────────────────────────────────────────────────────────╯
 ```────╯
 ```
