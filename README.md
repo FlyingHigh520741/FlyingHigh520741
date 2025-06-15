@@ -33,8 +33,8 @@
 ### `>> CORE_LANGUAGES.exe`
 ```bash
 ├── JavaScript     [████████████████████] 100%
-├── TypeScript     [██████              ] 30%
-├── Java           [█████████           ] 50%
+├── TypeScript     [█████               ] 30%
+├── Java           [█████████           ] 40%
 ├── Python         [██████████████████  ] 90%
 └── SQL            [███████████████     ] 75%
 ```
@@ -115,6 +115,49 @@ SKILL_UPGRADE_QUEUE:
 ├── Data Pipeline Architecture   [████████████        ] 60%
 ├── Modern CSS & Animations      [██████████████████  ] 90%
 └── API Design & Integration     [████████████        ] 65%
+```
+
+---
+
+## 📊 `> Sistema de Métricas Ativo`
+
+<div align="center">
+
+![Matrix Code](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
+
+**`ANALISANDO ATIVIDADE DO SISTEMA...`**
+
+</div>
+
+```
+╭─────────────────────────────────────────────────────────╮
+│  GITHUB ANALYTICS :: PERFORMANCE DASHBOARD             │
+├─────────────────────────────────────────────────────────┤
+│  ▌ Commits Graph      ▌ Language Stats                 │
+│  ▌ Streak Counter     ▌ Repository Overview            │
+│  ▌ Activity Timeline  ▌ Contribution Matrix            │
+╰─────────────────────────────────────────────────────────╯
+```
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlyingHigh520741&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=79d3c3&icon_color=bb86fc)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlyingHigh520741&theme=radical&hide_border=true&background=0d1117&stroke=79d3c3&ring=c792ea&fire=bb86fc&currStreakLabel=79d3c3)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingHigh520741&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=79d3c3)
+
+</div>
+
+```
+▌ SYSTEM PERFORMANCE: OPTIMAL
+▌ CODE QUALITY: HIGH  
+▌ DEPLOYMENT STATUS: ACTIVE
+▌ LEARNING CURVE: ASCENDING
 ```
 
 ---
