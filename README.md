@@ -1,102 +1,131 @@
-# ⚡️ `> Daniel Vieira :: System Active`
+<div align="center">
+
+![Cyberpunk Terminal](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+</div>
+
+# 🧬 `> Daniel Vieira :: System Booting...`
 
 ```
-██╗     ██╗███╗   ██╗██╗  ██╗███████╗██████╗ 
-██║     ██║████╗  ██║██║ ██╔╝██╔════╝██╔══██╗
-██║     ██║██╔██╗ ██║█████╔╝ █████╗  ██║  ██║
-██║     ██║██║╚██╗██║██╔═██╗ ██╔══╝  ██║  ██║
-███████╗██║██║ ╚████║██║  ██╗███████╗██████╔╝
-╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═════╝ 
+╔════════════════════════════════════════════════════════════╗
+║  ▌█ SYSTEM INITIALIZED █▌                                 ║
+║  ▌█ STATUS: ONLINE     █▌     USER: daniel.vieira         ║
+║  ▌█ MODE: DEVELOPMENT  █▌     LOCATION: são_paulo.br      ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-**`~/$ whoami`**  
-**Software Engineering Student @ FIAP**  
-**Banking Sector Intern :: Web Dev & Data Automation**  
-
-`▌Status: Online ▌ Location: São Paulo, BR ▌ Focus: Full Stack & Data Engineering`
+**`SOFTWARE ENGINEERING STUDENT @ FIAP`**  
+**`BANKING SECTOR INTERN :: WEB DEVELOPMENT & DATA AUTOMATION`**  
+**`FOCUS >> Full Stack Solutions | Process Automation | Data Engineering`**
 
 </div>
 
 ---
 
-## 🧠 `> Skillset --verbose`
+## 🛠 `> Skillset: Modules Loaded`
 
 <div align="left">
 
-### `>> Core Languages`
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50" align="right">
 
-### `>> Frontend Stack`
+### `>> CORE_LANGUAGES.exe`
+```bash
+├── JavaScript     [████████████████████] 100%
+├── TypeScript     [██████████████████  ] 90%
+├── Java           [████████████████    ] 80%
+├── Python         [██████████████████  ] 90%
+└── SQL            [███████████████     ] 75%
+```
+
+### `>> FRONTEND_STACK.dll`
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### `>> Tools & Platforms`
+### `>> TOOLS_ECOSYSTEM.sys`
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### `>> Data Engineering [Init]`
-```bash
-> databricks --status initializing
-> teradata --connection testing
-> ocr_python --status active
+### `>> DATA_ENGINEERING.init`
+```
+> databricks --status learning
+> teradata --connection testing  
+> ocr_automation --status active
+> python_data_extraction --mode production
 ```
 
 </div>
 
 ---
 
-## 🚀 `> Projetos em Execução`
-
-<details>
-<summary><strong>📂 Active Repositories</strong></summary>
-
-```
-▸ Exploring development portfolio...
-▸ Building automation solutions...
-▸ Crafting user interfaces...
-```
-
-**`➤ Principais Focos:`**
-- **Sistema de Upload/Análise** – Processamento automatizado de documentos
-- **OCR Automation** – Extração e tratamento de dados com Python
-- **UI Prototypes** – Interfaces responsivas baseadas em Figma + React
-- **Banking Solutions** – Automações para setor financeiro
-
-</details>
-
----
-
-## 🧪 `> Em Upgrade Contínuo`
-
-```bash
-daniel@system:~$ ./continuous_learning.sh
-[████████████████████████████████] 100%
-
-> Status: Full Stack Development Track
-> Platform: Alura + Practical Projects
-> Focus: React Ecosystem & Data Engineering
-> Next: Advanced TypeScript & Cloud Solutions
-```
-
-**`Current Learning Queue:`**
-- Advanced React Patterns & State Management
-- Data Pipeline Architecture
-- Modern CSS & Animation Techniques
-- API Design & Integration
-
----
-
-## 🌐 `> Network Access`
+## 📂 `> Projetos Ativos`
 
 <div align="center">
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</div>
+
+```
+╭─────────────────────────────────────────────────────────╮
+│  ACTIVE REPOSITORIES :: DEPLOYMENT STATUS              │
+├─────────────────────────────────────────────────────────┤
+│  ➤ PathTrack System                                    │
+│    └── Upload/Análise de Notas Fiscais com OCR        │
+│    └── Status: [DEVELOPMENT]                           │
+│                                                         │
+│  ➤ OCR Automation Suite                                │
+│    └── Extração e Processamento de Dados Python       │
+│    └── Status: [PRODUCTION]                            │
+│                                                         │
+│  ➤ UI Prototype Collection                             │
+│    └── Interfaces Figma → React Conversion             │
+│    └── Status: [TESTING]                               │
+│                                                         │
+│  ➤ Banking Automation Tools                            │
+│    └── Soluções Internas para Setor Financeiro        │
+│    └── Status: [PRIVATE_REPO]                          │
+╰─────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🔄 `> Em Evolução Contínua`
+
+<div align="center">
+
+![Loading](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+</div>
+
+```
+CONTINUOUS_LEARNING.exe :: PROCESSO ATIVO
+══════════════════════════════════════════
+
+▌ CURRENT TRACK: Full Stack Development
+▌ PLATFORM: Alura + Projetos Práticos  
+▌ FOCUS: React Ecosystem & Data Engineering
+▌ NEXT MODULES: Advanced TypeScript, Cloud Solutions
+
+SKILL_UPGRADE_QUEUE:
+├── Advanced React Patterns      [██████████████████  ] 85%
+├── Data Pipeline Architecture   [████████████        ] 60%
+├── Modern CSS & Animations      [██████████████████  ] 90%
+└── API Design & Integration     [████████████        ] 65%
+```
+
+---
+
+## 🌐 `> Rede Neural Aberta`
+
+<div align="center">
+
+![Network](https://media.giphy.com/media/3o7bu8sRnYpTOG1p8Q/giphy.gif)
+
+**`ESTABELECENDO CONEXÕES...`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vieira-novais-3a644a148/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vulg0zk)
@@ -109,13 +138,15 @@ daniel@system:~$ ./continuous_learning.sh
 <div align="center">
 
 ```
-╔══════════════════════════════════════╗  
-║  > Connection established            ║  
-║  > Ready for collaboration           ║  
-║  > Let's build something amazing     ║  
-╚══════════════════════════════════════╝  
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  ▌█ SYSTEM STATUS: OPERATIONAL                          █▌  ║
+║  ▌█ READY FOR: Collaboration | Innovation | Solutions  █▌  ║
+║  ▌█ LAST_SYNC: June 2025                               █▌  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-**`Last Update: June 2025 :: System Online`**
+**`> Connection established. Ready to build the future.`**
 
 </div>
